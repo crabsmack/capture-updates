@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "{a526dc54-84bb-4167-861e-d5bbe5bbc997}": {
+      "updates": [
+        {
+          "version": "0.1.8",
+          "update_link": "https://raw.githubusercontent.com/crabsmack/capture-updates/main/capture-0.1.8.xpi",
+          "update_hash": "sha256:7b53f31029e6979c17627286b0d41f3009c63f68b335fc1a94a1faa5ff9d0187"
+        }
+      ]
+    }
+  }
+}
