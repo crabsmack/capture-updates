@@ -3,9 +3,9 @@
     "{a526dc54-84bb-4167-861e-d5bbe5bbc997}": {
       "updates": [
         {
-          "version": "0.1.9",
-          "update_link": "https://raw.githubusercontent.com/crabsmack/capture-updates/main/capture-0.1.9.xpi",
-          "update_hash": "sha256:67e42e33986209c08e629536e85d65592c5563cb6dece4421dc6a78cc507a467"
+          "version": "0.1.10",
+          "update_link": "https://raw.githubusercontent.com/crabsmack/capture-updates/main/capture-0.1.10.xpi",
+          "update_hash": "sha256:fa92890fee565cc2de4d06121b04d0be49737c23887220269809aa3e4502bc13"
         }
       ]
     }
